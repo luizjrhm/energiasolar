@@ -1,0 +1,21 @@
+
+.rodape{
+    text-align: center;
+    background-color: var(--laranja);
+    width: auto;
+    padding: 1em;
+}
+
+.rodape h2{
+    padding: 5px;
+    font-size: 1em;
+    font: bold;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.rodape__cnpj{
+    padding: 2em 0 2em 0;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.35);
+}

@@ -1,0 +1,63 @@
+.banner {
+    display: flex;
+    background: url(../assets/svg/background-mobile_495px.svg) no-repeat;
+    background-size: auto;
+    width: auto;
+    height: auto;
+    background-color: var(--laranja);
+}
+
+.conteiner {
+    width: auto;
+    margin-top: 225px;
+    padding: 23px 23px;
+}
+
+.logo {
+    width: 190px;
+    height: 87.34px;
+}
+
+.conteiner__titulo {
+    line-height: 33px;
+    font-size: 32px;
+    font: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.conteiner__descricao {
+    line-height: 25px;
+    font-size: 19px;
+    margin: 10px 0;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.fomulario__item {
+    color: var(--branco);
+    font-size: 18px;
+    margin: 1em 0 0 0;
+    background-color: transparent;
+    border: 2px solid var(--branco);
+    padding: .5em;
+    border-radius: 19px;
+    width: 95%;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.fomulario__item::placeholder {
+    text-align: left;
+    font: bold;
+    font-size: 16px;
+    color: var(--branco);
+}
+
+.fomulario__botao {
+    text-align: center;
+    background-color: var(--laranja-botao);
+    border: 2px solid var(--branco);
+    border-radius: 19px;
+    padding: 10px;
+    width: auto;
+    margin: 2em 1.5em 2em 0;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.35);
+}

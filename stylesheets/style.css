@@ -1,4 +1,7 @@
 @import url("header.css");
+@import url("banner.css");
+@import url("cards.css");
+@import url("footer.css");
 
 :root {
     --preto: rgba(0, 0, 0, 1);

@@ -1,0 +1,30 @@
+.cards {
+    background-color: var(--preto);
+    padding: 40px;
+    height: auto;
+}
+
+.cards__item {
+    margin: 40px 0;
+    border-radius: 19px;
+    background-color: var(--cinza);
+    padding: 1em 2.5em;
+    width: auto;
+    height: auto;
+}
+
+.cards__titulo {
+    font: bold;
+    font-size: 34px;
+    text-align: center;
+}
+
+.cards__item h2 {
+    margin-top: .5em;
+    font: bold;
+    font-size: 24px;
+}
+
+.cards__titulo-destaque{
+    color: var(--laranja);
+}
