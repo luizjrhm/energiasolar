@@ -1,4 +1,4 @@
-@import url("./stylesheets/header.css");
+@import url("header.css");
 
 :root {
     --preto: rgba(0, 0, 0, 1);
