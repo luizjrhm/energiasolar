@@ -1,0 +1,13 @@
+@import url("/stylesheets/header.css");
+
+:root {
+    --preto: rgba(0, 0, 0, 1);
+    --laranja: rgba(255, 147, 4, 1);
+    --laranja-botao: rgba(255, 166, 48, 1);
+    --branco: rgb(255, 255, 255);
+    --cinza: #2D2D2D;
+}
+
+body {
+    color: var(--branco);
+}
