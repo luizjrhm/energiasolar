@@ -1,6 +1,6 @@
 .banner {
     display: flex;
-    background: url(/assets/svg/background-mobile_490px.svg) no-repeat;
+    background: url(../assets/svg/background-mobile_490px.svg) no-repeat;
     background-position: left 100% top 0%;
     width: auto;
     height: auto;
